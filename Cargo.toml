@@ -1,0 +1,11 @@
+[package]
+name = "pheddit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pulldown-cmark = "0.8.0"
+rayon = "1.5.1"
+regex = "1.5.4"
+rocket = "0.5.0-rc.1"
+serde_json = "1.0.68"
